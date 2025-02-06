@@ -1,5 +1,5 @@
-# Data of OB23b (FOGA 2023)
-Generate experimental results of OB23b.
+# Data of OB23a (FOGA 2023): Convergence Properties of the (µ/µI , λ)-ES on the Rastrigin Function
+Generate experimental results of OB23a.
 
 * fig1/main_dyn.m: generates and displays R(g) and sigma*(g)-dynamics of Fig. 1
 * fig2/main_avg.m: generates sampled and analytic results for f(R) at N=1 and N=2

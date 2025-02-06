@@ -1,0 +1,36 @@
+\begin{table}
+\centering\tiny
+\begin{tabular}{cccccc}
+\hline
+ & $M$ & $P_S$ & $\mu_\text{med}$ & $F_t$ & $E_r$ \\
+\hline
+Ras.~$N$=10 $A$=3 $\alpha$=2$\pi$ & 50 & 1.00 & 1024 & 2.2e+08 & 4.5e+06 \\
+\hline
+Ras.~$N$=30 $A$=3 $\alpha$=2$\pi$ & 50 & 1.00 & 1024 & 2.7e+08 & 5.3e+06 \\
+\hline
+Ras.~$N$=100 $A$=3 $\alpha$=2$\pi$ & 50 & 1.00 & 1024 & 2.8e+08 & 5.6e+06 \\
+\hline
+Ras.~$N$=300 $A$=3 $\alpha$=2$\pi$ & 50 & 1.00 & 1024 & 2.8e+08 & 5.5e+06 \\
+\hline
+Ras.~$N$=1000 $A$=3 $\alpha$=2$\pi$ & 50 & 0.96 & 1024 & 2.4e+08 & 4.9e+06 \\
+\hline
+Ras.~$N$=10 $A$=65 $\alpha$=2$\pi$ & 50 & 0.90 & 1024 & 1.1e+09 & 2.5e+07 \\
+\hline
+Ras.~$N$=30 $A$=33 $\alpha$=2$\pi$ & 50 & 0.96 & 1024 & 8.1e+08 & 1.7e+07 \\
+\hline
+Ras.~$N$=100 $A$=12 $\alpha$=2$\pi$ & 50 & 1.00 & 1024 & 4.8e+08 & 9.6e+06 \\
+\hline
+Ras.~$N$=300 $A$=7 $\alpha$=2$\pi$ & 50 & 0.92 & 1024 & 3.8e+08 & 8.2e+06 \\
+\hline
+Ras.~$N$=10 $A$=3 $\alpha$=10$\pi$ & 50 & 0.84 & 1024 & 1.1e+09 & 2.6e+07 \\
+\hline
+Ras.~$N$=30 $A$=3 $\alpha$=7$\pi$ & 50 & 0.96 & 1024 & 8.8e+08 & 1.8e+07 \\
+\hline
+Ras.~$N$=100 $A$=3 $\alpha$=4$\pi$ & 50 & 1.00 & 1024 & 4.7e+08 & 9.3e+06 \\
+\hline
+Ras.~$N$=300 $A$=3 $\alpha$=3$\pi$ & 50 & 0.90 & 1024 & 3.7e+08 & 8.1e+06 \\
+\hline
+\end{tabular}
+\caption{MyTableCaption}
+\label{table:MyTableLabel}
+\end{table}

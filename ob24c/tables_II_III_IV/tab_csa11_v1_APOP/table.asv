@@ -1,0 +1,22 @@
+\begin{table}
+\centering\tiny
+\begin{tabular}{ccccc}
+\hline
+ & $\mu_\text{25}$ & $\mu_\text{med}$ & $\mu_\text{75}$ & $F_t$ \\
+\hline
+S10 & 14 & 20 & 37 & 1.1e+04 \\
+\hline
+S100 & 23 & 95 & 318 & 3.3e+05 \\
+\hline
+S1000 & 29 & 130 & 523 & 1.9e+06 \\
+\hline
+N10 & 1024 & 1024 & 1024 & 1.9e+06 \\
+\hline
+N100 & 1024 & 1024 & 1024 & 1.9e+06 \\
+\hline
+N1000 & 1024 & 1024 & 1024 & 1.8e+06 \\
+\hline
+\end{tabular}
+\caption{MyTableCaption}
+\label{table:MyTableLabel}
+\end{table}

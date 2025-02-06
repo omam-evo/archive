@@ -1,5 +1,7 @@
-# Data of OB23a (Theoretical Computer Science)
-Generate experimental results of OB23a.
+# Data of OB23b: Progress Analysis of a Multi-Recombinative Evolution Strategy on the
+Highly Multimodal Rastrigin Function (Theoretical Computer Science)
+Generate experimental results of OB23b.
+
 Run script (TRIALS can be changed accordingly), plots are generated automatically.
 * fig1/main_visualize.m: generate Rastrigin contour plot (2D, left) and regular plot (1D, right)
 * fig2/main_dyn.m: evaluation of quality gain (two configurations N=10, N=100) and its normal approximation. Evaluation is done in muComLam_sSA.m and optimization is stopped after histogram was generated.
